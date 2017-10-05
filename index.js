@@ -23,4 +23,4 @@ class President {
   }
 }
 
-President("Lyndon B Johnson.", "Democrats", "1963-1969", "Texas");
+President("Lyndon B Johnson", "Democrats", "1963-1969", "Texas");
